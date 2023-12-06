@@ -3,3 +3,7 @@ node_modules
 
 # vscode
 .vscode
+
+#build
+dist
+.parcel-cache
